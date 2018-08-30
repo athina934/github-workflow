@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: _____Athina Lambrinos____
 
 ## DUE: 30 Aug 2018
 
