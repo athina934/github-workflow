@@ -1,0 +1,49 @@
+body {
+	background-color: lightblue;
+	background-image: url(webdesign.png);
+	background-repeat: no-repeat;
+	background-size: cover; }
+	
+#wrapper {
+	background-color: ivory;
+	width: 70%;
+	margin: auto;
+	padding: 15px;
+	border: 4px dashed lightblue; }
+	
+h1 {
+	background-color: lightblue;
+	text-align: center;
+	font-family: georgia;
+	padding: 5px;
+	border: 2px dashed ivory; }
+	
+h2 {
+	background-color: ghostwhite;
+	text-align: center;
+	font-family: georgia;
+	padding: 5px;
+	border: 2px dashed lightblue; }
+	
+p {
+	font-family: georgia;
+	padding-left: 60px;
+	padding-right: 60px; }
+	
+img {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	display: block;
+	width: 200px;
+	padding: 5px;
+	border: 4px dashed lightblue; }
+	
+footer {
+	font-family: georgia;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: lightblue;
+	border: 2px dashed ivory; }
+	
